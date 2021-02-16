@@ -11,3 +11,13 @@ Output:
 
 Test your function before committing to Github.
 """
+
+
+def evenorodd(number):
+    if number % 2 ==0:
+        result = True
+    else:
+        result = False
+    
+    return result
+
