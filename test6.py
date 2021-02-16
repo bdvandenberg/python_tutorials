@@ -11,3 +11,9 @@ Output:
 
 Test your function before committing to Github.
 """
+a = 14
+if (a % 2) == 0:
+        print ("true")
+else: 
+    print ("false")
+        
