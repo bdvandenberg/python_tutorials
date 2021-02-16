@@ -11,3 +11,9 @@ Output:
 
 Test your function before committing to Github.
 """
+
+num = int(input("Enter a number: "))  
+if (num % 2) == 0:  
+   print(True)  
+else:  
+   print(False)  
