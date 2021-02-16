@@ -19,4 +19,4 @@ def odd_even(number):
     print(mod == 0)
     return mod == 0
 
-odd_even(7)
+#odd_even(7)
