@@ -11,3 +11,12 @@ Output:
 
 Test your function before committing to Github.
 """
+
+
+def odd_even(number):
+    mod = number % 2
+    
+    print(mod == 0)
+    return mod == 0
+
+odd_even(7)
